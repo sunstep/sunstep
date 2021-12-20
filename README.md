@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sunstep
 - I create deathrun strippers.
+- By the way I use Arch Linux
 
 <!---
 sunstep/sunstep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
