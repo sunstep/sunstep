@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunstep
 - I create deathrun strippers.
-- By the way I use Arch Linux
+- I can cross off installing Arch Linux from scratch from my bucket list.
 - By the way I use vim
 
 <!---
