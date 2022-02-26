@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sunstep
 - I mainly create strippers for deathrun in tf2, but other game modes are also possible.
 - I can cross off installing Arch Linux from scratch from my bucket list.
+- Gentoo when?
 - By the way I use vim
 
 <!---
